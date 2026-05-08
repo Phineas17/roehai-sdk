@@ -1,5 +1,5 @@
 {
-  "name": "@roehai/sdk",
+  "name": "roehai-sdk",
   "version": "1.0.0",
   "description": "SDK officiel RoehAI — intégrez les agents IA (Aria, Léa, Maya) dans vos applications",
   "main": "./dist/index.cjs",
